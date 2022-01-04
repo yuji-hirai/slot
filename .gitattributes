@@ -1,1 +1,3 @@
 test.txt merge=ours
+t.txt merge=ours
+.gitignore merge=ours
